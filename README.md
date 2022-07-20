@@ -1,2 +1,4 @@
 # hangman
 Simulates a hangman game in C#!
+
+This is a console application made to mimic to functionality of a Hangman game. There are pre-set words that are determined by a Random Number Generator, so the word will be randomly picked every time. You try to guess the word by inputting a letter before pressing enter and see if you’re correct. If not, then you lose lives until you run out and lose the game unless you guess correctly. If you guess all the letters correct, you of course win the game. You are asked by the console if you wish to replay. Select “Y” to start the game over or select any other key to exit. The program checks the input for validation, and if there is invalid input when asked for a letter, then you will be prompted to try again in a loop until you input a valid character. You must type in a letter and only one letter at a time.
