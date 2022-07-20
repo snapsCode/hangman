@@ -1,0 +1,7 @@
+C:\Users\daoch\source\repos\Hangman Project\Hangman Project\obj\Debug\Hangman Project.csproj.AssemblyReference.cache
+C:\Users\daoch\source\repos\Hangman Project\Hangman Project\obj\Debug\Hangman Project.csproj.CoreCompileInputs.cache
+C:\Users\daoch\source\repos\Hangman Project\Hangman Project\bin\Debug\Hangman Project.exe.config
+C:\Users\daoch\source\repos\Hangman Project\Hangman Project\bin\Debug\Hangman Project.exe
+C:\Users\daoch\source\repos\Hangman Project\Hangman Project\bin\Debug\Hangman Project.pdb
+C:\Users\daoch\source\repos\Hangman Project\Hangman Project\obj\Debug\Hangman Project.exe
+C:\Users\daoch\source\repos\Hangman Project\Hangman Project\obj\Debug\Hangman Project.pdb
